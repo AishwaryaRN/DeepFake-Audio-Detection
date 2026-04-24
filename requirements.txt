@@ -1,0 +1,12 @@
+streamlit
+librosa
+numpy
+scikit-learn
+xgboost
+matplotlib
+shap
+sounddevice
+soundfile
+noisereduce
+fpdf
+joblib
